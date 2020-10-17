@@ -5,6 +5,7 @@ env:
   - INDEX=2
   - INDEX=3
   - INDEX=4
+  - INDEX=5
 
 
 script: sleep 30
